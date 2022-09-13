@@ -1,2 +1,5 @@
 # Conversao_de_imagens_para_caracteres
-Este trabalho foi desenvolvido com o intuito de realizar screenshots de momentos específicos da tela do PC. Para ser mais exato, ele foi desenvolvido para acompanhar as odds do jogo aviator. Eu testei esse código durante 1 mês e ele correspondeu bem minhas expectativas, evidentemente é necessário um update do código. No entanto, para uma versão Beta0.0 o código ok. 
+Este trabalho é a segunda parte do projeto de conversão e estudo do jogo Aviator. Este foi desenvolvido com intuito de realizar conversão de imagens para caracteres, e salva-las em uma planilha para estudo posterior. Mais especificamente, após 5 dias de coleta dos dados. O código foi utilizado para estar realizando a conversão do banco de imagens para caracteres. 
+Sobre atualizações futuras:
+- A biblioteca de conversão de imagens(Pytesseract) teve um desempenho melhor no sistema linux, no entanto ela ainda pode gerar outliers o que gera ruídos no estudo dos dados. Dessa maneira, é recomendado um estudo e aprimoramento no banco de imagens. Seja no tratamento de imagens, ou até mudança de biblioteca.
+- Como citado, é necessário realizar um tratamento nas imagens que foram convertidas.
